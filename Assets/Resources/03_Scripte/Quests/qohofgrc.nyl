@@ -1,0 +1,36 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+using UnityEngine;
+
+class Quest : GameObject
+    {
+        public string questTitle;
+
+        public GameObject questGeber;
+        public GameObject questItem = null;
+
+        public GameObject questVorherigeQuest = null;
+
+        public Boolean questAccepted = false;
+        public Boolean questSolved = false;
+
+        public float questRewardExperience = 0.0f;
+        public GameObject questRewardItem1 = null;
+        public GameObject questRewardItem2 = null;
+        public GameObject questRewardItem3 = null;
+
+        public String questLogText = "";
+
+        public void Dialog()
+        { }
+
+        public string GetInitText()
+        {
+            return "";
+        }
+
+    }
+
