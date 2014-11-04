@@ -1,0 +1,13 @@
+G:\Eigene Dateien\GitHub\UnknowProject\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
+G:\Eigene Dateien\GitHub\UnknowProject\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+G:\Eigene Dateien\GitHub\UnknowProject\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+G:\Eigene Dateien\GitHub\UnknowProject\Temp\bin\Debug\UnityEditor.dll
+G:\Eigene Dateien\GitHub\UnknowProject\Temp\bin\Debug\UnityEditor.Graphs.dll
+G:\Eigene Dateien\GitHub\UnknowProject\Temp\bin\Debug\UnityEngine.dll
+G:\Eigene Dateien\GitHub\UnknowProject\Temp\bin\Debug\Mono.Cecil.dll
+G:\Eigene Dateien\GitHub\UnknowProject\Temp\bin\Debug\nunit.framework.dll
+G:\Eigene Dateien\GitHub\UnknowProject\Temp\bin\Debug\Unity.DataContract.dll
+G:\Eigene Dateien\GitHub\UnknowProject\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+G:\Eigene Dateien\GitHub\UnknowProject\Temp\bin\Debug\Assembly-CSharp.pdb
+G:\Eigene Dateien\GitHub\UnknowProject\obj\Debug\Assembly-CSharp-Editor.dll
+G:\Eigene Dateien\GitHub\UnknowProject\obj\Debug\Assembly-CSharp-Editor.pdb
